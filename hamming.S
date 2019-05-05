@@ -22,7 +22,8 @@
 			;		to encode `data` and then, after a simulated transmission,
 			;		decode `recv`. Assume that `recv` contains what is received
 			;		at the other end.
-			
+
+						
 			;		Your code here
 			
 main
